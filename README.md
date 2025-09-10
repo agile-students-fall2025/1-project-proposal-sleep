@@ -1,4 +1,4 @@
-# Project Proposal
+# Tasklatte ☕
 
 ## Team Members
 [Susan Thao](https://github.com/susan-t)
