@@ -1,7 +1,7 @@
 # Project Proposal
 
 ## Team Members
-[Susan Thao] (https://github.com/susan-t)
+[Susan Thao](https://github.com/susan-t)
 
 ## What and why?
 What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
