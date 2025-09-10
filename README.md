@@ -15,12 +15,22 @@ More specifically, if you're currently:
 - Taking multiple classes
 - Prone to procrastination, burnout, or cramming
 - Want to build healthier habits and integrate personal breaks in ones schedule 
+- Already using organizational tools like Google Calendar or Notion, yet want something more personalized.  
 
-This is a space that learns your schedule and suggests healthier alternatives so you can feel better and 
+Students, this is the space for you to find healthier academic and lifestyle choices for your schedule.
 
 ## How?
 A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
 
+From an end-user's perspective:
+- Intitially the user will input their class schedule, recurring events, and upcomming assignments, exams, and projects. They should also estimated completion times and due dates. 
+- From there, the smart scheduling algorithm will generate a studying schedule to make all tasks small or large manageable. It will also suggest wellness breaks and times for rest.
+- Over time as the user interacts with the app and inputs the actual time of completion and the dates of when the assginments were completed, the schedule will learn the user's patterns are. For example when they focus the best and how long each assignment per subject takes. This allows the schedule to adapt based on previous weeks but can still be easily adjusted and changed based on spontenous events or even during exam weeks. 
+- Users will be able to recieve "daily blends" of their activites and recieve reminders and progress to be motivated. 
+- The visual aspect of the cafe will help to embody the workload of the student so there is further customization. 
+
 ## Scope
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+This proposal provides a challenge but is also realistic to build. 
+
+It will involve delievering an app that is responsive for scheduling, time tracking, and task storage. It will also require curating an algorithm that will generate schedules based on scientifically proven study methods and a basic AI/machine learning model that adapts to users behaviors. It will also involve the creation of an interface / visualization (in the form of a coffee shop) that updates according to the workload of a user each day. 
 
