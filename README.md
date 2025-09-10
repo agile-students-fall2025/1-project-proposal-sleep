@@ -20,7 +20,6 @@ More specifically, if you're currently:
 Students, this is the space for you to find healthier academic and lifestyle choices for your schedule.
 
 ## How?
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
 
 From an end-user's perspective:
 - Intitially the user will input their class schedule, recurring events, and upcomming assignments, exams, and projects. They should also estimated completion times and due dates. 
