@@ -2,7 +2,8 @@
 
 ## Team Members
 [Susan Thao](https://github.com/susan-t)
-[Becky Tan] (https://github.com/beckytan)
+
+[Becky Tan](https://github.com/beckytan)
 
 ## What and why?
 Tasklatte - a wellness and productivity app that aims to promote organization in one's academic and personal lives through the visualization of a coffee shop! It encourages a balanced schedule that opposes poor time management and burnout from unsustainable study habits and the lack of breaks. 
